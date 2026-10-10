@@ -1,0 +1,21 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Dummy file for learning purposes",
+  "homepage": "https://github.com/saketsharmacse-droid/NodeJS#readme",
+  "bugs": {
+    "url": "https://github.com/saketsharmacse-droid/NodeJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saketsharmacse-droid/NodeJS.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "03_hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node 01_basics/03_hello.js"
+  }
+}
